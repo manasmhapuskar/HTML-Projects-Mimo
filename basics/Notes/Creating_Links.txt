@@ -1,0 +1,122 @@
+Situation: 
+Inspired by a popular TV show about a hacker group,
+we want to give hacking a try 
+
+
+Task: 
+We'll add links to fake documents on a government website 
+
+ 
+Action:
+*. Code the html and body elements.
+1. Start by adding a heading & a paragraph element.
+2. Name the heading as "Official Documents".
+3. Next, add the link tags in paragraph.
+4. Add the text "Article 38" for the first link.
+5. Add the href attribute to the link.
+6. Add an = sign and double quotes after the attribute.
+7. Now add the URL "https://mimo.app/r/bubu" 
+   inside the double quotes.
+8. Add a line break.
+9. Start coding the second link named "Tax law 2021".
+10. Add the web address "https://mimo.app/r/sparkles" 
+    for the second link. 
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Situation:
+A new company, TOYS'R'U has just developed a new website.
+Here's the design for what it was supposed to like,
+1. A heading with text "TOYS'R'U!"
+2. A paragraph with the text "Welcome to TOYS'R'U,
+     where all you need is your imagination!"
+3. A link named "New Toys" on the new line.
+4. Followed by the text, "Follow the link to see your
+   newest toy design" on the next line.
+5. Next, three links named "About Us, Privacy & Jobs" 
+
+
+Task:
+Unfortunately, the developers who built it made a few mistakes.
+<html>
+    <body>
+        <h1>
+            TOYS'R'U!
+        </h1>
+        <p>
+            Welcome to TOYS'R'U,
+            where all you need is your imagination!
+        </p>
+        <p>
+            Follow the link to see your
+            newest toy design"
+        </p>
+            <a=""></a>
+            <br />
+            <a="">Jobs</a>
+    </body>
+</html>
+Lets' work on fixing them.  
+
+
+Action:
+1. Start off by adding the missing href names for the link
+   tags on the page. We'll add the actual URLs later.
+2. Fix the first a tag by adding the content About us.
+3. After the br tag, add another link named Privacy
+   and an href attribute with no URL value.
+4. Make the last two links appear on different lines.
+5. Create a link named New Toys as important after the
+   first paragraph and an href attribute with no URL value.
+6. Add the first URL "https://getmimo.com/r/toysru-toy.html"
+7. Add generic links "https://getmimo.com/r/toysru.html"
+   towards a 'Work in Progress' webpage for the remaining links. 
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+Situation:
+Links and Buttons make the backbone of the internet.
+Use them to create a blog post publishing webpage. 
+
+
+Task:
+The webpage will have links, a "Save Draft" button,
+and a few tags to help find the blog post based on categories 
+
+ 
+Action:
+*. Code the doctype, html and body elements.
+1. Start with the part of the webpage where the users
+   select tags for their blog post.
+   Code the "Select tags" heading with h3.
+2. Next, add the "Cat" button as the first tag option.
+3. Add a new button named "Code" that we'll use 
+   to emphasize the tags already selected for the blog post.
+4. Add a button that displays "French".
+5. Add a line break to display the remaining tags
+6. Add a button with emphasized text displaying "Code Press"
+7. Create another button with emphasized text displaying "Learn to code"
+8. Lastly, add a button "Save Draft" so that users can save their post.
+   The button should be displayed as important.
+9. Start by coding the heading "CodePress" as h1
+10. Create a link to display "Code 101". 
+    Then set it's attribute to "".
+11. Create another link displaying "Journal" with href set to "".
+12. Add a third link displaying "Best Practice" with href set to "".
+13. Add appropriate URLs for all the links to make it clickable.
+14. Add a paragraph displaying 
+    "Sit back, relax, grab a mug of hot coffee and enjoy the ride"
+15. Add another paragraph displaying
+    "I learned how to code on a cool summer day. It was like yes..."
+16. Add links to the paragraphs. Make "hot coffee" an empty link.
+17. Make the word "yesterday" an empty link.
+18. Add the URL "https://mimo.app/i/coffee.png" to "hot coffee"
+19. Add the URL "https://www.youtube.com/watch?v=aQatrXw0njs"
+    to "yesterday"
+20. Add a paragraph with the latest thing learned about coding 

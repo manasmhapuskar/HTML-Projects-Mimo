@@ -1,0 +1,21 @@
+Situation: 
+Create a post for a social media website 
+
+ 
+Task: 
+Code a heading for the username, a paragraph for the message,
+and two buttons. 
+
+ 
+Action:
+1. Get started by coding Doctype.
+2. Code the html and body elements on the web page.
+3. Add an h4 element with no text so we have a place
+   to display the username.
+4. Place the username inside the h4 tags.
+5. Place the message of the post in paragraph tags
+   beneath the username.
+6. Code the button tag.
+7. Display Comment on the button so user know what to click
+   when they want to leave comment.
+8. Code a button that displays Retweet

@@ -1,0 +1,44 @@
+Situation: 
+To help a home goods retailer with their online store 
+
+
+Task: 
+We'll create the HTML tags, then body tags, and finish the webpage
+by adding the name of the online store 
+
+ 
+Action:
+1. Let's tell the computer we want to start displaying a webpage.
+   Create an HTML opening tag 
+2. Now add the HTML closing tag
+3. Code the opening body tag
+4. Now code the closing body tag to let the computer know 
+    where the content of the webpage ends. 
+5. Now finish the name of the website by adding 
+   "Godrej Interio" text to display on the webpage 
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
+Situation: 
+Help a satirical newspaper get their website off the ground 
+
+
+Task: 
+They have given us the title and a paragraph of a recent article.
+We'll create a webpage to display them. 
+
+ 
+Action:
+1. Start with the html tag.
+2. Add the body tags.
+3. Code the h1 tags.
+4. The newspaper already gave us a headline of the article 
+   "Hackers Strike Again".
+   Put the heading in between the heading tags.
+5. Now code the paragraph tags.
+6. The news paper also gave us the article's trailer.
+   Put the trailer "A hacker group has replaced government websites with livestreams
+   of cats. While some praise their acts, many are against them." 
+   in between the paragraph tags. 

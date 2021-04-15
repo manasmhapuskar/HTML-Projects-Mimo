@@ -1,0 +1,22 @@
+Situation: 
+Use the knowledge learned in Formatting 
+to fine-tune the satirical newspaper's website. 
+
+
+Task: 
+We have to improve the website by adding a quote 
+and using tags to format it. 
+
+ 
+Action:
+1. Add paragraph tags for the quote.
+2. Add the quote "We need more cats in government" inside the paragraph tags.
+3. Add emphasis to the quote "We need more cats in government".
+4. Add the source of the quote "- says local cat lady".
+5. Code a line break after the quote.
+6. Define cat lady as important text.
+7. Visitors often have multiple tabs or windows with websites open,
+   so lets's make sure they find the Satirical Newspaper's
+   Before adding a title, add the tags between which the title will go.
+8. Now add the title of the website.
+9. Finally tell the web browser which version of HTML the webpage uses. 
