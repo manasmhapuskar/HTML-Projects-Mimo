@@ -1,0 +1,64 @@
+Situation:
+Use your knowledge of input elements to code a signup page
+like the one below:
+<image>
+
+ 
+Task:
+Use placeholders to tell users where to type in their email
+and password, and a checkbox to let new users sign up for 
+email updates.
+
+
+Actions:
+*. Code the doctype, html & body tags.
+1. Start with a h4 heading displaying "Company Name".
+2. Code two input elements so that one displays below the other.
+3. To let users know where to enter in their email, let's set
+   the placeholder to "Email".
+4. Now, set the placeholder for the second input to "Password".
+5. To keep curious eyes from seeing the password a user types in,
+   set the input field's input to password.
+6. Add a line break to the bottom of your webpage.
+7. Then, create an input element checkbox below it.
+8. Besides the checkbox, tell the users what they're agreeing to
+   by emphasizing text near to it.
+9. Add a line break.
+10. Then, code a button displaying Sign up at the bottom of the webpage.
+11. Lastly, try replacing "Company Name" and "Send me updates" with text
+    of your choice. 
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+ 
+Situation:
+Using input and image elements, we can build interesting
+interfaces for settings 
+
+ 
+Task:
+Apply your knowledge on those elements to build an interface
+for computer settings like one below:
+<image> 
+
+
+Action:
+*. Code the doctype, html & body elements.
+1. Start by creating an h4 heading "Settings".
+2. Next, display a paragraph for the brightness setting,
+   an image, and an input element.
+3. Since, we want a smaller icon next to our input elements,
+   set the image's width attribute to 20.
+4. Now add the icon image's source:
+   "https://mimo.app/i/brightness-icon.png"
+5. For adjusting brightness, it's common to use an input element
+   with range.
+6. Now it's time for Volume Setting. Use paragraph to give it 
+   a label
+7. Now, create a image with it's width set to 20.
+8. Set the source of the 2nd image:
+   "https://mimo.app/i/volume-icon.png"
+9. Add the last input element of range. 
