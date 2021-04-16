@@ -55,3 +55,53 @@ Action:
 3. Fix the second image's size by setting the width and height to 250
 4. Notice that the first image is still very large.
    Fix it by setting the height and width to 250. 
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+Situation:
+Let's put your skills to the test by coding a user profile
+similar to how social media sites like Instagram build theirs.
+
+
+Task:
+Part I
+Take a peek at the finished project.
+It has images laid out in a grid beneath a user's profile picture.
+
+Part II
+You got the structure down for the profile.
+Now it's time to add some fresh images of cars.
+
+Part III
+Your Instagram webpage looks fantastic but misses out on a 
+major brand opportunity.
+
+
+Action:
+Part I
+1. Code the doctype element to kick odd the webpage.
+2. Now create the html element.
+3. Create the head element.
+4. Next create the body element.
+5. Now let's add the user's profile picture.
+   Create the image having the URL "https://mimo.app/i/helen.png"
+6. Code an h1 heading element for the username.
+7. Create a paragraph that displays "verified account" with emphasis.
+8. Create a paragraph with a description of the profile.
+
+Part II
+1. Create an image "https://mimo.app/i/lada.png"
+2. Add two more images, "https://mimo.app/i/buggy.png" &
+   "https://mimo.app/i/coupe.png"
+3. Add a line break.
+4. Create three more images, "https://mimo.app/i/ford.png",
+   "https://mimo.app/i/truck.png" &
+   "https://mimo.app/i/van.png"
+
+Part III
+1. Add the title of your webpage "Instagram".
+2. Create an image logo, "https://mimo.app/i/insta.png" on top of the page. Then add line break.

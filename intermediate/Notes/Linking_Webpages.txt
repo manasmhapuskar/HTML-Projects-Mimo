@@ -1,0 +1,158 @@
+Situation:
+Make a game show website where visitors win prize
+if they choose the right option .
+We already have multiple files. Aside from the homepage,
+each webpage has an image, text and a reset button for
+the prize behind each door. 
+
+ 
+Task:
+To make the game show website work, we'll add links to
+the other pages on the homepage. 
+
+
+Action:
+1. Begin by adding the href property to the first link.
+2. Add a link to the webpage first-door.html.
+3. Add the href attribute with no value set to the other two links.
+4. Add links to the other webpages in their corresponding elements.
+5. To reset the game after opening the door, add a link that directs,
+   users to homepage. It should display "Reset" on the webpage. 
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+ 
+Situation:
+Working on a comedy website 
+<image>
+
+ 
+Task:
+The developers who worked on this page forgot to add
+an ordered list and links to the other webpages. Fix it!
+
+
+Action:
+1. Start by adding an ordered element before first link and body.
+2. Add the first link inside the list element.
+3. Convert the other two lists into links.
+4. Add hyperlinks to all three links and in order of files.
+5. Last, in third-joke.html, add a link to homepage 
+   that displays "JokeOpedia" 
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+ 
+Situation:
+Working on a popular social platform called Fret-it 
+<image>
+The site already has four webpages with content in them:
+index.html, aliens.html, e-tea.html and ufo.html but no
+links to them.
+
+
+Task:
+Add an unordered list of links inside index.html so
+that users can navigate to other pages from the homepage. 
+
+
+Actions:
+1. Code a link to aliens.html
+2. Code a link to e-tea.html
+3. The links are side by side, but the client wants them
+   listed under each other. Therefore, add the existing
+   links in an unordered list.
+4. Nest the links in the list element.
+5. Add the link of the last webpage inside the list element. 
+
+
+
+----------------------------------------------------------------------------------------------------
+
+
+ 
+Situation:
+Let's put together the concepts that we've learned so far.
+Work on a template for a freelance web designer's website. 
+
+ 
+Task:
+Part I
+Code and design the index page.
+
+Part II
+Add an image to homepage and create a new file "404.html"
+
+Part III
+Add a list of links inside the portfolio webpage.
+
+Part IV
+Finish off our website by filling out contact.html with elements
+that help users get in touch.
+
+ 
+Action:
+Part I
+*. Code the doctype, html and body element.
+1. Start off with the navigation bar. Add a div element.
+2. Next, add an h3 element with the text "Nina Davidson".
+3. Add a link to index.html by the name "Home".
+4. As we are building a website, add the portfolio.html and
+   contact.html files so users can view projects and stay in touch.
+5. Add a link that displays "Portfolio", file portfolio.html.
+6. Lastly, create a third link that displays "Get in touch", 
+   file contact.html.
+7. Copy the exact code to the two files, portfolio.html and 
+   contact.html for easy navigation between webpages.
+8. Add three paragraphs inside a new div element in index.html,
+   first, "Hi, I'm Nina and I'm a freelance web designer."
+   second, "I first learned how to code on an app on my phone a few years ago.
+           Now, I'm coding part-time for a living while working remotely from all around the world."
+   third, "See my latest project here."
+9. Add a paragraph inside a new div element in portfolio.html,
+   "Here's a list of some of my previous work and satisfied clients."
+10. In contact.html, inside a new div element, add an h4 element named "Get in touch".
+
+Part II
+1. Create an image 
+   "https://www.educationalappstore.com/images/upload/11080-logo-mimo-learn-to-code.jpg" 
+   or the user's profile picture.
+2. Set the image width and height to "300".
+3. Add a hyperlink to the word "here".
+4. We'll set a link to a 404 page for now. A new html file named "404.html" has been added.
+   It contains an nested h3 element with username and a seperate nested h3 and paragraph
+   which says "404 - Page not found!" and "That's an ooooppsieee!" respectively.
+5. Update the link in the last paragraph so it takes to the 404 page.
+6. Let's improve the 404 page. Start by coding a link displaying "Back to homepage"
+7. Add a image by the link "https://www.litespeedtech.com/support/wiki/lib/exe/fetch.php/litespeed_wiki:config:404.png?w=400&tok=a0557c" in the second div.
+8. Set the image's width and height to "300".
+
+Part III
+1. Code an unordered list.
+2. Nest a list inside the ul element.
+3. Nest a link "404.html" inside the list. Set it's name to Chirper.
+4. Create another list item with a nested link.
+   The link should navigate to 404 page and display "Homeflix".
+5. Create the last list with a nested link name "Tracebook".
+   Navigate this link to the 404 page.
+
+Part IV
+1. Add an input element with type set to "text" and placeholder set to "Name".
+2. Add another input element with type set to "text" and placeholder set to "Email".
+3. Add a paragraph displaying "Budget".
+4. To filter clients based on a budget, add an input element with "range".
+5. Let's clear up what the input element "range" does for the users. 
+   Add $500 to $5000+ with emphasis on both sides.
+6. Add a paragraph displaying "Website type".
+7. We want the users to choose between 3 types of websites. To do that,
+   Add an input element with type as "checkbox".
+8. Code Blog with emphasis.
+9. Add two more checkboxes. First is "Company" and second is "Other".
+   Give emphasis to both of them.
+10. Finally, add a button displaying "Get a quotation". 

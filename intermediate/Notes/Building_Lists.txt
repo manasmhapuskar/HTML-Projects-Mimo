@@ -1,0 +1,69 @@
+Situation:
+Build a navigation bar for a hipster e-commerce website. 
+
+
+Task:
+Code a nested list to display all the clothing items the website has to offer. 
+
+ 
+Actions:
+*. Code the doctype, html and body elements.
+1. Start by giving the website a clear title 
+   (h1 heading) for its users.
+2. Create the unordered list.
+3. Add a list item "Tops" to the list.
+4. Now, add the "Bottoms" and "Accessories" list items.
+5. Nest an ordered list to display the different kinds of tops
+   the website has to offer.
+6. Since shirts are the top sold items, place them as the first
+   item in the ordered list. Then place suits and finish with blouses.
+7. Create the ordered list of top-selling bottoms. Start with a "Pants"
+   list item and end with a "Shorts" list item.
+8. Create the ordered list of top-selling accessories. 
+   Add "Bags" and "Watches" as list items.
+9. Try adding a section for hipster shoes (Extra). 
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+
+Situation:
+Build an Online Resume to impress future employers. 
+
+ 
+Task:
+Part I
+To create a resume and add a photo
+
+Part II
+Use unordered lists to showcase academic projects.
+We'll show project entries first. Then, we'll add nested ordered lists
+for achievements and duties done during those jobs.
+
+Part III
+Add task descriptions for each project inside nested ordered lists.
+
+ 
+Action:
+Part I
+*. Code the doctype, html, head and body elements.
+1. Start by adding title element as "Resume".
+2. Create an h2 heading for the name of the applicant.
+3. Add the applicant's photo.
+4. Create a h4 heading for the section name of the resume.
+
+Part II
+1. Code a div element.
+2. Code an unordered list.
+3. Create a nested list by adding your first project.
+4. Create another list by adding you second project.
+5. Add a line break between to project listings.
+
+Part III
+1. Nest the ordered elements inside the first list item.
+2. Add a project description.
+3. Add another project description.
+4. Now, create another ordered list inside second list item.
+5. Add another project description. 
