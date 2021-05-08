@@ -62,3 +62,46 @@ Action:
 8. Set the source of the 2nd image:
    "https://mimo.app/i/volume-icon.png"
 9. Add the last input element of range. 
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+
+
+Situation:
+Recently a group of developers was hired to build
+the newsletter subscription page shown below:
+<image> 
+
+
+Task:
+Unfortunately, those developers didn't practice their
+input elements and the webpage now looks like this.
+<image>
+<!doctype html>
+<html>
+    <body>
+        <h3>Sign up for Newsletters</h3>
+        <input>
+        <em>The Daily Crunch</em>
+        <input>
+        Startups Weekly
+        <p>
+            By clicking Subscribe you agree to our 
+            <a href = "https://getmimo.com">Terms of Service</a>
+        </p>
+        <button>Subscribe</button>
+    </body>
+</html>
+Let's fix it. 
+
+
+Action:
+1. Start by setting the type of all input elements to checkbox.
+2. Let the input elements appear on different lines.
+3. The developers left out the third option. First add a line break.
+   Code the third input with type checkbox.
+4. Add an emphasized label to the third checkbox displaying "Event Updates".
+5. To sign users up with an email, display an input element with a 
+   placeholder set to "Email" to the left of subscribe button. 
